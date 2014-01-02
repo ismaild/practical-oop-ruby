@@ -16,6 +16,14 @@ DRY: Dont Repeat Yoursel
 
 LOD: Law of demeter
 
+Single Responsibility Principal
+----
+
+- Enforce SRP everywhere
+- Extract extra responsibilities from methods
+- 
+
+
 Code
 -----
 
